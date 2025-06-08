@@ -76,8 +76,5 @@ The "Manage Technicians" application is designed to allow administrative users t
 This application supports administrative tasks for managing technician records and is a part of instructional material covering chapters 1 to 6. It is designed to handle technician data efficiently within the SportsPro Technical Support infrastructure.
 
 
-## Contact
 
-- **Project Maintainer**: Ryan Mota
-- **Email**: [ryan.mota@triosstudent.com](mailto:ryan.mota@triosstudent.com)
-- **GitHub**: [xGentuso](https://github.com/xGentuso)
+
